@@ -1,0 +1,2 @@
+# myfirst-javascript
+learning javascript
